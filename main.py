@@ -28,6 +28,6 @@ class StatArray:
 
 
 stat_object = StatArray([6, 8, 10, 12, 14, 16, 18, 20, 22],
-                        [16, 24, 28, 32, 25, 24, 20, 18, 15], 4)
+                        [16, 24, 28, 32, 25, 24, 20, 18, 15], precision=4)
 print(stat_object)
 
